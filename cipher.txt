@@ -1,0 +1,2 @@
+This is a cipher text
+The purpose of this file is to be encrypted

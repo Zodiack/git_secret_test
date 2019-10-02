@@ -1,0 +1,2 @@
+This is a plaintext file
+Used as a control file that is not supposed to be encrypted
